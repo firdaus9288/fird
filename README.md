@@ -1,0 +1,2 @@
+# fird
+My coin
